@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Theme.Dbook" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    <style name="Theme.Dbook" parent="Theme.MaterialComponents.Light.NoActionBar">
         <!-- Primary brand colors -->
         <item name="colorPrimary">@color/primaryBlue</item>
         <item name="colorPrimaryVariant">@color/primaryBlueDark</item>
@@ -15,7 +15,7 @@
         <item name="android:windowBackground">@color/backgroundLight</item>
     </style>
 
-    <style name="Theme.Dbook.Splash" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    <style name="Theme.Dbook.Splash" parent="Theme.MaterialComponents.Light.NoActionBar">
         <item name="android:windowBackground">@color/primaryBlue</item>
         <item name="android:statusBarColor">@color/primaryBlueDark</item>
     </style>
